@@ -28,6 +28,11 @@ A data analysis project built using **Python (Jupyter Notebook)** and core data 
 ### 4. Data Visualizations & Insights
 * Generated plots to track sales and profit trajectories over time, regional performances, and the correlation between discount levels and profitability.
 
+<a id="viz"></a>
+## 4. Data Visualizations & Insights
+
+![Viz1](viz/SuperStore_Viz1.png)
+
 <div align="center">
 
 ### Part 1: Customer Segments, Regional Losses & Sub-Category Discounts
@@ -35,7 +40,9 @@ A data analysis project built using **Python (Jupyter Notebook)** and core data 
 
 </div>
 
-![Viz1](viz/SuperStore_Viz1.png)
+---
+
+![Viz2](viz/SuperStore_Viz2.png)
 
 <div align="center">
 
@@ -43,5 +50,3 @@ A data analysis project built using **Python (Jupyter Notebook)** and core data 
 *Overview of category shares, top high-value customers, order volume by shipping duration, monthly sales/profit trajectories, and overall discount impact curves.*
 
 </div>
-
-![Viz2](viz/SuperStore_Viz2.png)
