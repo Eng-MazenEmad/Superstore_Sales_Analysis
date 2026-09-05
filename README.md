@@ -28,7 +28,5 @@ A data analysis project built using **Python (Jupyter Notebook)** and core data 
 ### 4. Data Visualizations & Insights
 * Generated plots to track sales and profit trajectories over time, regional performances, and the correlation between discount levels and profitability.
 
-*(ملاحظة: يمكنك إضافة صور الجرافات والداشبورد هنا)*
-```markdown
-![Sales Trend](images/sales_trend.png)
-![Profit by Region](images/profit_by_region.png)
+[Viz1](viz\SuperStore_Viz1)
+[Viz2](viz\SuperStore_Viz2)
